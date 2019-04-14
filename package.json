@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "version": "",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "dotenv": "^7.0.0",
+    "liri": "^1.0.1",
+    "moment": "^2.24.0",
+    "node": "^11.13.0",
+    "node-spotify-api": "^1.0.9",
+    "request": "^2.88.0",
+    "spotify": "^0.3.0"
+  }
+}
